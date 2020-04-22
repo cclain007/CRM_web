@@ -1,0 +1,218 @@
+﻿$axure.loadCurrentPage({
+  "url":"aseguradora.html",
+  "generationDate":new Date(1565724986259.93),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"Usuario"],
+  "page":{
+    "packageId":"e2ff0d2e0a8145c79dd24e907a21bd27",
+    "type":"Axure:Page",
+    "name":"Aseguradora",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"6d8e4b8d84dc45f6909415d0ffe39d9f",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":9,
+              "y":0},
+            "size":{
+              "width":81,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5275e74bc78646fe871cc151245b4db2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":9,
+                  "y":0},
+                "size":{
+                  "width":81,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/home/u4.png"}},
+{
+          "id":"77e6892b9e794d2aa6411f8209df4cb6",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":50},
+            "size":{
+              "width":90,
+              "height":20},
+            "outerShadow":{
+              "on":true,
+              "offsetX":5,
+              "offsetY":5,
+              "blurRadius":5,
+              "color":{
+                "r":0,
+                "g":0,
+                "b":0,
+                "a":0.349019607843137}}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0b28b9421c8d47b488d5156ba0c12923",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":50},
+                "size":{
+                  "width":90,
+                  "height":20},
+                "outerShadow":{
+                  "on":true,
+                  "offsetX":5,
+                  "offsetY":5,
+                  "blurRadius":5,
+                  "color":{
+                    "r":0,
+                    "g":0,
+                    "b":0,
+                    "a":0.349019607843137}}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/prospectos/u2.png"}},
+{
+          "id":"7ef786c735244153baf1868e10e13c5c",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":90,
+              "y":0},
+            "size":{
+              "width":357,
+              "height":64}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"571469e455dd4c29a5d36d4e3ee4ffce",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":90,
+                  "y":0},
+                "size":{
+                  "width":357,
+                  "height":64}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/aseguradora/u4.png"}},
+{
+          "id":"71fe1ae754424caa988d45217122bc31",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":910,
+              "y":10},
+            "size":{
+              "width":30,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1e490c8d829e472881e6fb6f256c6527",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":910,
+                  "y":10},
+                "size":{
+                  "width":30,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open MainMenu in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"mainmenu.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/prospectos/u6.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "6d8e4b8d84dc45f6909415d0ffe39d9f":{
+      "scriptId":"u0"},
+    "5275e74bc78646fe871cc151245b4db2":{
+      "scriptId":"u1"},
+    "77e6892b9e794d2aa6411f8209df4cb6":{
+      "scriptId":"u2"},
+    "0b28b9421c8d47b488d5156ba0c12923":{
+      "scriptId":"u3"},
+    "7ef786c735244153baf1868e10e13c5c":{
+      "scriptId":"u4"},
+    "571469e455dd4c29a5d36d4e3ee4ffce":{
+      "scriptId":"u5"},
+    "71fe1ae754424caa988d45217122bc31":{
+      "scriptId":"u6"},
+    "1e490c8d829e472881e6fb6f256c6527":{
+      "scriptId":"u7"}}});

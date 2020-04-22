@@ -1,0 +1,218 @@
+﻿$axure.loadCurrentPage({
+  "url":"productos.html",
+  "generationDate":new Date(1565724986108.54),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"Usuario"],
+  "page":{
+    "packageId":"1684dd799e9243dfa56061765cf7a17a",
+    "type":"Axure:Page",
+    "name":"Productos",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"5d023f1ee7e34f86aff2b3cb169d71c2",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":9,
+              "y":0},
+            "size":{
+              "width":81,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"60be5d8e0b524d9b8b68ccad0c5917ad",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":9,
+                  "y":0},
+                "size":{
+                  "width":81,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/home/u4.png"}},
+{
+          "id":"5104e879862a424e896026b934a99638",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":50},
+            "size":{
+              "width":90,
+              "height":20},
+            "outerShadow":{
+              "on":true,
+              "offsetX":5,
+              "offsetY":5,
+              "blurRadius":5,
+              "color":{
+                "r":0,
+                "g":0,
+                "b":0,
+                "a":0.349019607843137}}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ab515cd575ec42da8e8c9829a00ce038",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":50},
+                "size":{
+                  "width":90,
+                  "height":20},
+                "outerShadow":{
+                  "on":true,
+                  "offsetX":5,
+                  "offsetY":5,
+                  "blurRadius":5,
+                  "color":{
+                    "r":0,
+                    "g":0,
+                    "b":0,
+                    "a":0.349019607843137}}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/prospectos/u2.png"}},
+{
+          "id":"18936612e2284748a433039bcae3e769",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":100,
+              "y":10},
+            "size":{
+              "width":280,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7cd3654ca8c248499476768105ab4168",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":100,
+                  "y":10},
+                "size":{
+                  "width":280,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/productos/u4.png"}},
+{
+          "id":"46e6765d45c143cf9627b0b0ba6b98fc",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":910,
+              "y":10},
+            "size":{
+              "width":30,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2097113fb6c646038c3973dde95cb2e0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":910,
+                  "y":10},
+                "size":{
+                  "width":30,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open MainMenu in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"mainmenu.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/prospectos/u6.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "5d023f1ee7e34f86aff2b3cb169d71c2":{
+      "scriptId":"u0"},
+    "60be5d8e0b524d9b8b68ccad0c5917ad":{
+      "scriptId":"u1"},
+    "5104e879862a424e896026b934a99638":{
+      "scriptId":"u2"},
+    "ab515cd575ec42da8e8c9829a00ce038":{
+      "scriptId":"u3"},
+    "18936612e2284748a433039bcae3e769":{
+      "scriptId":"u4"},
+    "7cd3654ca8c248499476768105ab4168":{
+      "scriptId":"u5"},
+    "46e6765d45c143cf9627b0b0ba6b98fc":{
+      "scriptId":"u6"},
+    "2097113fb6c646038c3973dde95cb2e0":{
+      "scriptId":"u7"}}});

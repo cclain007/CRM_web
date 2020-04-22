@@ -1,0 +1,218 @@
+﻿$axure.loadCurrentPage({
+  "url":"prospectos.html",
+  "generationDate":new Date(1565724985801.14),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"Usuario"],
+  "page":{
+    "packageId":"b10fe9cd0620448b86c3dd0434acd1ce",
+    "type":"Axure:Page",
+    "name":"Prospectos",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"7ce62f30d3434ca4a05afeef4663a405",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":9,
+              "y":0},
+            "size":{
+              "width":81,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"94c136bed3a14366918fd5f92f9d8a21",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":9,
+                  "y":0},
+                "size":{
+                  "width":81,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/home/u4.png"}},
+{
+          "id":"3f958aa92d7a4384a998951b6e4e8d57",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":50},
+            "size":{
+              "width":90,
+              "height":20},
+            "outerShadow":{
+              "on":true,
+              "offsetX":5,
+              "offsetY":5,
+              "blurRadius":5,
+              "color":{
+                "r":0,
+                "g":0,
+                "b":0,
+                "a":0.349019607843137}}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"39c20a04f2d94c5e8a9b9fff0100a429",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":50},
+                "size":{
+                  "width":90,
+                  "height":20},
+                "outerShadow":{
+                  "on":true,
+                  "offsetX":5,
+                  "offsetY":5,
+                  "blurRadius":5,
+                  "color":{
+                    "r":0,
+                    "g":0,
+                    "b":0,
+                    "a":0.349019607843137}}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/prospectos/u2.png"}},
+{
+          "id":"efd347cef5f84dbeab6c7cc1df949831",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":100,
+              "y":4},
+            "size":{
+              "width":319,
+              "height":56}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7c02962c259d4aa5acedffc900bf1e92",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":100,
+                  "y":4},
+                "size":{
+                  "width":319,
+                  "height":56}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/prospectos/u4.png"}},
+{
+          "id":"6c1c1fa8fe2f4017afac4e9151b61e34",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":910,
+              "y":10},
+            "size":{
+              "width":30,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"315d34907bf94ef8acdabdb210dcb7dd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":910,
+                  "y":10},
+                "size":{
+                  "width":30,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open MainMenu in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"mainmenu.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/prospectos/u6.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "7ce62f30d3434ca4a05afeef4663a405":{
+      "scriptId":"u0"},
+    "94c136bed3a14366918fd5f92f9d8a21":{
+      "scriptId":"u1"},
+    "3f958aa92d7a4384a998951b6e4e8d57":{
+      "scriptId":"u2"},
+    "39c20a04f2d94c5e8a9b9fff0100a429":{
+      "scriptId":"u3"},
+    "efd347cef5f84dbeab6c7cc1df949831":{
+      "scriptId":"u4"},
+    "7c02962c259d4aa5acedffc900bf1e92":{
+      "scriptId":"u5"},
+    "6c1c1fa8fe2f4017afac4e9151b61e34":{
+      "scriptId":"u6"},
+    "315d34907bf94ef8acdabdb210dcb7dd":{
+      "scriptId":"u7"}}});
